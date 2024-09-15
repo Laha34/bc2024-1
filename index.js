@@ -1,1 +1,1 @@
-ллоіфвл
+console.log("Hello, " + "Laha34");
